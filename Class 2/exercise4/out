@@ -1,0 +1,35 @@
+Threshold: 0.25 Alice: 66 Eve: 3
+Means there's 66 valid logins for Alice and 3 valid logins for Eve
+With this threshold, we have 34 invalid logins for Alice and 3 false positive for Eve that could connect to eve account
+The false reject rate of this threshold is 0.34 and the false positive rate is 0.03
+
+Threshold: 0.3 Alice: 82 Eve: 5
+Means there's 82 valid logins for Alice and 5 valid logins for Eve
+With this threshold, we have 18 invalid logins for Alice and 5 false positive for Eve that could connect to eve account
+The false reject rate of this threshold is 0.18 and the false positive rate is 0.05
+
+Threshold: 0.35 Alice: 93 Eve: 9
+Means there's 93 valid logins for Alice and 9 valid logins for Eve
+With this threshold, we have 7 invalid logins for Alice and 9 false positive for Eve that could connect to eve account
+The false reject rate of this threshold is 0.07 and the false positive rate is 0.09
+
+Threshold: 0.4 Alice: 98 Eve: 16
+Means there's 98 valid logins for Alice and 16 valid logins for Eve
+With this threshold, we have 2 invalid logins for Alice and 16 false positive for Eve that could connect to eve account
+The false reject rate of this threshold is 0.02 and the false positive rate is 0.16
+
+Threshold: 0.45 Alice: 99 Eve: 25
+Means there's 99 valid logins for Alice and 25 valid logins for Eve
+With this threshold, we have 1 invalid logins for Alice and 25 false positive for Eve that could connect to eve account
+The false reject rate of this threshold is 0.01 and the false positive rate is 0.25
+
+Threshold: 0.5 Alice: 100 Eve: 30
+Means there's 100 valid logins for Alice and 30 valid logins for Eve
+With this threshold, we have 0 invalid logins for Alice and 30 false positive for Eve that could connect to eve account
+The false reject rate of this threshold is 0.0 and the false positive rate is 0.3
+
+Threshold: 0.55 Alice: 100 Eve: 40
+Means there's 100 valid logins for Alice and 40 valid logins for Eve
+With this threshold, we have 0 invalid logins for Alice and 40 false positive for Eve that could connect to eve account
+The false reject rate of this threshold is 0.0 and the false positive rate is 0.4
+
