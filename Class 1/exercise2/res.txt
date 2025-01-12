@@ -1,0 +1,8 @@
+➜  exercise2 git:(main) ✗ ./a.out                   
+Please enter the filename of the passwords file
+phpbb.txt
+Please enter the hashed password
+3ddcd95d2bff8e97d3ad817f718ae207b98c7f2c84c5519f89cd15d7f8ee1c3b
+Password found: legende
+➜  exercise2 git:(main) ✗ 
+
